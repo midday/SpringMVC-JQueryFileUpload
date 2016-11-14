@@ -1,0 +1,2 @@
+# SpringMVC-JQueryFileUpload
+使用jQueryFileUpload整合SpringMVC的一个完整例子，分别演示了跨域和不跨域两种情况
