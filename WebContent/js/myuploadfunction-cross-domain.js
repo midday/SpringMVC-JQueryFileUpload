@@ -1,6 +1,6 @@
 $(function () {
     $('#fileupload').fileupload({
-    	url:'http://localhost:8080/jQueryFileUpload/rest/controller/uploadCrossDomain',
+    	url:'http://localhost:8080/SpringMVC-JQueryFileUpload/rest/controller/uploadCrossDomain',
     	type:'POST',
         dataType: 'json',
         autoUpload : true,
